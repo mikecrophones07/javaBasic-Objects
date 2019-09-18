@@ -21,3 +21,10 @@
 2. The test will throw error if run without code change. i read the code that call the method and write the expected result base from the code
 3. i corrected the test that way to make the test success and base the result from the given line of code flow
 4. None
+
+
+-- Test5 should_use_the_try_pattern
+1. Understanding try pattern https://docs.oracle.com/javase/tutorial/essential/exceptions/tryResourceClose.html
+2. The test will throw error if run without code change. i read the document and find out that the try block automatically close the instantiated objects outside so when i changed the code without knowledge, i get test error at first and when i undertand the flow i change again and passed the test now
+3. i corrected the test that way to make the test success and base the result from the given flow of logic
+4. None
