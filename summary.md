@@ -144,3 +144,9 @@ Test17 should_write_perfect_equals_6
 2. Same answer with test12
 3. Same answer with test12
 4. Same answer with test12
+
+Test18 should_write_perfect_equals_7
+1. understanding hashcode values https://www.baeldung.com/java-hashcode
+2. The test will throw error if run without code change. by reading the documents, i learned that hashcode is the unique hashing algorithm that encrypt a specific value. i learned that every objects can use .hashcode so i used it directly with the property that the class has and test it once and passed.
+3. to align and test the hashcode value of the value
+4. none
