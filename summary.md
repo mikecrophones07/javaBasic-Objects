@@ -114,3 +114,9 @@ Test12 should_write_perfect_equals_1
 2. The test will throw error if run without code change. i set up a proper checking to check inside of an object and run the test and it succeed.
 3. i corrected the test base from what is expected
 4. None
+
+Test13 should_write_perfect_equals_2
+1. Same answer with test12
+2. Same answer with test12
+3. Same answer with test12
+4. Same answer with test12
