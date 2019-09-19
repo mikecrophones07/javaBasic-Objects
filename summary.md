@@ -218,3 +218,9 @@ Test11 should_get_message_of_var_length_parameters
 2. The test will throw error if run without code change. by checking on the code, it simply pass array of parameter and simply iterate the number of object and append each object to one message so i tried to put the answer once and it succeed.
 3. to align the expected result to the actual and to test whether they have same value or not 
 4. none
+
+Test12 should_get_message_of_var_length_parameters_2
+1. same answer with test11
+2. same answer with test11
+3. same answer with test11
+4. same answer with test11
