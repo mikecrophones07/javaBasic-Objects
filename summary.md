@@ -102,3 +102,9 @@ Test10 should_use_instance_of_to_determine_inheritance_relationship
 2. The test will throw error if run without code change. i base the knowledge from the document and what instance of describe is it identify the instance of specified of classes/interface/etc.. now basing from the inheritance we can actually tell that it can be instance to the class defined from the assert since the first class is inheriting the parent classes so i write the answers base from what i understand and run the test once and it succeed.
 3. i corrected the test base from what is expected and what is my understanding with inheritance with instance of 
 4. None
+
+Test11 should_use_instance_of_only_in_inheritance_relationship
+1. same with test10  
+2. The test will throw error if run without code change. base from my understanding from test10 the only difference is that long and integer are not the same, they have the different bytes so the answer is clear. i run the test once and it succeed.
+3. i corrected the test base from what is expected and what is my understanding with inheritance with instance of 
+4. None
