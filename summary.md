@@ -190,6 +190,13 @@ Test6 should_modify_internal_state
 
 Test7 should_choose_method_at_compile_time
 1. understand modify internal state
-2. The test will throw error if run without code change. by checking on the code, it simply aligned the test parameter per method and will check what to pass back in main method, since object is pass then the return string should be the one in object type parameter pass by value with return so i test it once and it succeed.
+2. The test will throw error if run without code change. by checking on the code, it simply aligned the test parameter per method and will check what to pass back in main method, since object is passed then the return string should be the one in object type parameter pass by value with return so i test it once and it succeed.
+3. to align the expected result to the actual and to test whether they have same value or not 
+4. none
+
+
+Test8 should_choose_the_most_specific_overload
+1. understand modify internal state
+2. The test will throw error if run without code change. by checking on the code, it simply aligned the test parameter per method and will check what to pass back in main method, since string & integer is passed then the return string should be the one in string & integer type parameter pass by value with return so i test it once and it succeed.
 3. to align the expected result to the actual and to test whether they have same value or not 
 4. none
