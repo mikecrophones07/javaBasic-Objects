@@ -120,3 +120,9 @@ Test13 should_write_perfect_equals_2
 2. Same answer with test12
 3. Same answer with test12
 4. Same answer with test12
+
+Test14 should_write_perfect_equals_3
+1. Same answer with test13
+2. Same answer with test13
+3. Same answer with test13
+4. Same answer with test13
