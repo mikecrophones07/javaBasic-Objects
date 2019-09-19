@@ -181,3 +181,9 @@ Test5 should_pass_by_value_continued
 2. The test will throw error if run without code change. by checking on the code, it simply pass the value on the method and return the value so as expected it will return the final value on the main method so the value will be a new object so if you test it it will fail so i choose the other object that instantiate the same object value so i run the test with the same object value and it succeed.
 3. to align the expected result to the actual and to test whether they have same value or not 
 4. none
+
+Test6 should_modify_internal_state
+1. understand modify internal state
+2. The test will throw error if run without code change. by checking on the code, the method pass object value that didn't return a value, as i understand, when you pass an object value to pass a value method, the object reference will change also but if primitive type objects like integer, string, long and etc. it will not affect the value thus will not change the value so when i run the test with change value once, it succeed 
+3. to align the expected result to the actual and to test whether they have same value or not 
+4. none
