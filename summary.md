@@ -40,3 +40,11 @@
 2. The test will throw error if run without code change. this is the first time i encounter this one and by checking the by putting stacktrace you can get class and method name. At first try, the test failed because i want to test if my value constructions is correct and after 2nd-3rd try, it finally succeed.
 3. i corrected the test that way to make the test success and base the result from the understanding i get from the document.
 4. None
+
+
+-- InheritanceTest --
+-- Test1 should_be_derived_from_object_class
+1. Understanding inheritance of the parent class of all class which is object http://journals.ecs.soton.ac.uk/java/tutorial/java/javaOO/subclasses.html
+2. The test will throw error if run without code change. Basing from the understanding in the document all class are under Objects so just try it in 1st try and my understanding is correct.
+3. i corrected the test that way to make the test success and base answer to the expected result
+4. None
