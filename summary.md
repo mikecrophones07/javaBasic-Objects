@@ -209,6 +209,12 @@ Test9 should_calling_another_constructor
 
 Test10 should_get_initialization_ordering
 1. understand initialization ordering https://stackoverflow.com/questions/32558900/are-java-global-variables-guaranteed-to-initialize-first
-2. The test will throw error if run without code change. by checking on the code, we can check that after initialization of object in the main method constructor was called and there is a global variable, as we saw in the document global variable are initialized first before constructor was being executed so we saw that 4 string are being get in the logs so in first try it failed because i taigh  
+2. The test will throw error if run without code change. by checking on the code, we can check that after initialization of object in the main method constructor was called and there is a global variable, as we saw in the document global variable are initialized first before constructor was being executed so we saw that 4 string are being get in the logs so in first try it failed because i taught constructor is the one who will be called when initialized so i try again base from the document that i read in it succeed in the second time.  
+3. to align the expected result to the actual and to test whether they have same value or not 
+4. none
+
+Test11 should_get_message_of_var_length_parameters
+1. to understand how parameter are being constructed by using the length of the parameters.
+2. The test will throw error if run without code change. by checking on the code, it simply pass array of parameter and simply iterate the number of object and append each object to one message so i tried to put the answer once and it succeed.
 3. to align the expected result to the actual and to test whether they have same value or not 
 4. none
