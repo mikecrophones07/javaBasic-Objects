@@ -34,3 +34,9 @@
 2. The test will throw error if run without code change. i dont know what happen in the flow test but from my understanding when try block is already ended it tried the close the last block of code which is ClosableWithException but exception happen and then try to close the upper code which ClosableWithoutException so my test failed at first and try again for second time and it failed again and after reading the overiding methods and flow of codes
 3. i corrected the test that way to make the test success and base the result from the given flow of logic
 4. None
+
+-- Test6 should_get_method_name_in_stack_frame
+1. How to get method and class name using stacktrace https://stackoverflow.com/questions/442747/getting-the-name-of-the-currently-executing-method
+2. The test will throw error if run without code change. this is the first time i encounter this one and by checking the by putting stacktrace you can get class and method name. At first try, the test failed because i want to test if my value constructions is correct and after 2nd-3rd try, it finally succeed.
+3. i corrected the test that way to make the test success and base the result from the understanding i get from the document.
+4. None
