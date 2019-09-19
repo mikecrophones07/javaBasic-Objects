@@ -138,3 +138,9 @@ Test16 should_write_perfect_equals_5
 2. Same answer with test12
 3. Same answer with test12
 4. Same answer with test12
+
+Test17 should_write_perfect_equals_6
+1. Same answer with test12
+2. Same answer with test12
+3. Same answer with test12
+4. Same answer with test12
