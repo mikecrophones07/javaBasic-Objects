@@ -175,3 +175,9 @@ Test4 should_pass_by_value
 2. The test will throw error if run without code change. by checking on the code, it simply pass the value on the method and doesn't return the value so as expected it will not return the final on the main method so the value will still remain so as i run the test onces, it succeed successfully.
 3. to align the expected result to the actual and to test whether they have same value or not 
 4. none
+
+Test5 should_pass_by_value_continued
+1. understand methods with pass by value with returning values
+2. The test will throw error if run without code change. by checking on the code, it simply pass the value on the method and return the value so as expected it will return the final value on the main method so the value will be a new object so if you test it it will fail so i choose the other object that instantiate the same object value so i run the test with the same object value and it succeed.
+3. to align the expected result to the actual and to test whether they have same value or not 
+4. none
