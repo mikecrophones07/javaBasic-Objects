@@ -54,3 +54,9 @@
 2. The test will throw error if run without code change. This is a general knowledge so i just read the flow of the code and write the correct answer. Only the run test once and it passed.
 3. i corrected the test that way to make the test success and base the answer to teh flow of the program and whats inside the constructor
 4. None
+
+-- Test3 should_call_super_class_constructor_continued
+1. Same answer with Test2 should_call_super_class_constructor
+2. Same answer with Test2 should_call_super_class_constructor
+3. Same answer with Test2 should_call_super_class_constructor
+4. Same answer with Test2 should_call_super_class_constructor
