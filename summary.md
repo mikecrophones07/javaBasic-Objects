@@ -84,3 +84,9 @@
 2. The test will throw error if run without code change. i dont really get the what happen in the test but i think because casting issue with null values but im not sure why it happens so i write my answer and it failed at first and at my second try it succeed.
 3. i corrected the test base from the actual result
 4. why exception happen in the try when the exception happens outside the class? is there any explanation why it exception occurs inside the try block.
+
+Test8 should_not_make_you_confused
+1. Understanding objects that inherits a class and initializing the objects to inherited class
+2. The test will throw error if run without code change. this is general knowledge from inheritance, the result is like casting the child to the inherited class but will remain the class because the class is inheriting the parent class so as expected it will get the function from the main class and not the inherited class so i run the test once it succeed
+3. i corrected the test base from what is expected and what is my understanding with inheritance
+4. None
