@@ -187,3 +187,9 @@ Test6 should_modify_internal_state
 2. The test will throw error if run without code change. by checking on the code, the method pass object value that didn't return a value, as i understand, when you pass an object value to pass a value method, the object reference will change also but if primitive type objects like integer, string, long and etc. it will not affect the value thus will not change the value so when i run the test with change value once, it succeed 
 3. to align the expected result to the actual and to test whether they have same value or not 
 4. none
+
+Test7 should_choose_method_at_compile_time
+1. understand modify internal state
+2. The test will throw error if run without code change. by checking on the code, it simply aligned the test parameter per method and will check what to pass back in main method, since object is pass then the return string should be the one in object type parameter pass by value with return so i test it once and it succeed.
+3. to align the expected result to the actual and to test whether they have same value or not 
+4. none
