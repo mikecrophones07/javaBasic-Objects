@@ -60,3 +60,9 @@
 2. Same answer with Test2 should_call_super_class_constructor
 3. Same answer with Test2 should_call_super_class_constructor
 4. Same answer with Test2 should_call_super_class_constructor
+
+-- Test4 should_call_super_class_constructor_more
+1. Understanding inheritance with initialization on constructor and super class
+2. The test will throw error if run without code change. This is a general knowledge so i just read the flow of the code and i also know super class constructor so answered the test base on what i understand and test success in first try
+3. i corrected the test that way to make the test success and base the answer to teh flow of the program and whats inside the constructor and super class
+4. None
