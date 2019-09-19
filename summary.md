@@ -132,3 +132,9 @@ Test15 should_write_perfect_equals_4
 2. Same answer with test12
 3. Same answer with test12
 4. Same answer with test12
+
+Test16 should_write_perfect_equals_5
+1. Same answer with test12
+2. Same answer with test12
+3. Same answer with test12
+4. Same answer with test12
