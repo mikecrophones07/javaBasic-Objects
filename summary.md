@@ -163,3 +163,9 @@ Test2 should_point_to_different_object
 2. The test will throw error if run without code change. by checking on the code, they initialize two different objects with same values so as expected if two objects are instantiate with same value, they differ in the address of the object so they are different so when i write the answer and run the test once, it succeed.
 3. to align the expected result to the actual and to test whether they have same value or not 
 4. none
+
+Test2 should_initialized_to_default_value
+1. understand initialized default value
+2. The test will throw error if run without code change. by checking on the code, it seem that the class is initialized but value property was not set so the default value is null or 0 depending on the type so i set all values to null and 0 and test it once and it succeed.
+3. to align the expected result to the actual and to test whether they have same value or not 
+4. none
