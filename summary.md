@@ -90,3 +90,9 @@ Test8 should_not_make_you_confused
 2. The test will throw error if run without code change. this is general knowledge from inheritance, the result is like casting the child to the inherited class but will remain the class because the class is inheriting the parent class so as expected it will get the function from the main class and not the inherited class so i run the test once it succeed
 3. i corrected the test base from what is expected and what is my understanding with inheritance
 4. None
+
+Test9 should_not_make_you_confused_2
+1. Understanding objects that inherits a class 
+2. The test will throw error if run without code change. this is general knowledge from inheritance, when it inherits the class, it gets the other method from the inherited the class so i write the answer and run the test once and it succeed.
+3. i corrected the test base from what is expected and what is my understanding with inheritance
+4. None
