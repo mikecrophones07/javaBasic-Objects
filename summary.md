@@ -108,3 +108,9 @@ Test11 should_use_instance_of_only_in_inheritance_relationship
 2. The test will throw error if run without code change. base from my understanding from test10 the only difference is that long and integer are not the same, they have the different bytes so the answer is clear. i run the test once and it succeed.
 3. i corrected the test base from what is expected and what is my understanding with inheritance with instance of 
 4. None
+
+Test12 should_write_perfect_equals_1
+1. creating an equal function that will check an object of an object
+2. The test will throw error if run without code change. i set up a proper checking to check inside of an object and run the test and it succeed.
+3. i corrected the test base from what is expected
+4. None
