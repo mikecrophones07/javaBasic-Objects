@@ -72,3 +72,9 @@
 2. The test will throw error if run without code change. This is a general knowledge so i just read the flow of the code and i also know overiding methods so i just put the answer correctly on try.
 3. i corrected the test that way to make the test success and base the answer to the flow of the program and whats inside the constructor and super class
 4. None
+
+-- Test6 should_call_super_class_methods
+1. Same answer with Test5 should_call_most_derived_methods
+2. Same answer with Test5 should_call_most_derived_methods
+3. Same answer with Test5 should_call_most_derived_methods
+4. Same answer with Test5 should_call_most_derived_methods
