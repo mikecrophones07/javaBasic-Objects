@@ -96,3 +96,9 @@ Test9 should_not_make_you_confused_2
 2. The test will throw error if run without code change. this is general knowledge from inheritance, when it inherits the class, it gets the other method from the inherited the class so i write the answer and run the test once and it succeed.
 3. i corrected the test base from what is expected and what is my understanding with inheritance
 4. None
+
+Test10 should_use_instance_of_to_determine_inheritance_relationship
+1. Understanding instance of to determine inherited class https://www.armedia.com/blog/instanceof-avoid-in-code/
+2. The test will throw error if run without code change. i base the knowledge from the document and what instance of describe is it identify the instance of specified of classes/interface/etc.. now basing from the inheritance we can actually tell that it can be instance to the class defined from the assert since the first class is inheriting the parent classes so i write the answers base from what i understand and run the test once and it succeed.
+3. i corrected the test base from what is expected and what is my understanding with inheritance with instance of 
+4. None
