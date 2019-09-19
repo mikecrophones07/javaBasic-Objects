@@ -78,3 +78,9 @@
 2. Same answer with Test5 should_call_most_derived_methods
 3. Same answer with Test5 should_call_most_derived_methods
 4. Same answer with Test5 should_call_most_derived_methods
+
+-- Test7 should_use_caution_when_dealing_with_array_type
+1. Understanding array type casting
+2. The test will throw error if run without code change. i dont really get the what happen in the test but i think because casting issue with null values but im not sure why it happens so i write my answer and it failed at first and at my second try it succeed.
+3. i corrected the test base from the actual result
+4. why exception happen in the try when the exception happens outside the class? is there any explanation why it exception occurs inside the try block.
