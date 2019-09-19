@@ -48,3 +48,9 @@
 2. The test will throw error if run without code change. Basing from the understanding in the document all class are under Objects so just try it in 1st try and my understanding is correct.
 3. i corrected the test that way to make the test success and base answer to the expected result
 4. None
+
+-- Test2 should_call_super_class_constructor
+1. Understanding inheritance with initialization on constructor
+2. The test will throw error if run without code change. This is a general knowledge so i just read the flow of the code and write the correct answer. Only the run test once and it passed.
+3. i corrected the test that way to make the test success and base the answer to teh flow of the program and whats inside the constructor
+4. None
