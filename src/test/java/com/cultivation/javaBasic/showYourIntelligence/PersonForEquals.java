@@ -36,11 +36,16 @@ public class PersonForEquals {
     public boolean equals(Object obj) {
         // TODO: please modify the following code to pass the test
         // <--start
-        PersonForEquals obj1 = ((PersonForEquals)obj);
-        if(obj1.name == getName() && obj1.yearOfBirth == getYearOfBirth()){
-            return true;
+        if(obj != null) {
+            PersonForEquals obj1 = ((PersonForEquals) obj);
+            if (obj1.name == getName() && obj1.yearOfBirth == getYearOfBirth()) {
+                return true;
+            }
+            return false;
         }
-        return false;
+        else{
+            return false;
+        }
         // --end-->
     }
 
