@@ -150,3 +150,11 @@ Test18 should_write_perfect_equals_7
 2. The test will throw error if run without code change. by reading the documents, i learned that hashcode is the unique hashing algorithm that encrypt a specific value. i learned that every objects can use .hashcode so i used it directly with the property that the class has and test it once and passed.
 3. to align and test the hashcode value of the value
 4. none
+
+--ObjectTest
+Test1 should_point_to_the_same_object
+1. understand objects reference/address passing
+2. The test will throw error if run without code change. by checking on the code, it simply pass the object to object without initializations so we expect that they carry the same value so after writing the answer and test it, it succeed.
+3. to align the expected result to the actual and to test whether they have same value or not 
+4. none
+
