@@ -52,7 +52,7 @@
 -- Test2 should_call_super_class_constructor
 1. Understanding inheritance with initialization on constructor
 2. The test will throw error if run without code change. This is a general knowledge so i just read the flow of the code and write the correct answer. Only the run test once and it passed.
-3. i corrected the test that way to make the test success and base the answer to teh flow of the program and whats inside the constructor
+3. i corrected the test that way to make the test success and base the answer to the flow of the program and whats inside the constructor
 4. None
 
 -- Test3 should_call_super_class_constructor_continued
@@ -64,5 +64,11 @@
 -- Test4 should_call_super_class_constructor_more
 1. Understanding inheritance with initialization on constructor and super class
 2. The test will throw error if run without code change. This is a general knowledge so i just read the flow of the code and i also know super class constructor so answered the test base on what i understand and test success in first try
-3. i corrected the test that way to make the test success and base the answer to teh flow of the program and whats inside the constructor and super class
+3. i corrected the test that way to make the test success and base the answer to the flow of the program and whats inside the constructor and super class
+4. None
+
+-- Test5 should_call_most_derived_methods
+1. Understanding overiding methods
+2. The test will throw error if run without code change. This is a general knowledge so i just read the flow of the code and i also know overiding methods so i just put the answer correctly on try.
+3. i corrected the test that way to make the test success and base the answer to the flow of the program and whats inside the constructor and super class
 4. None
